@@ -6,7 +6,7 @@ public class Main {
         int[] vetor = new int[10];
         int i = 0;
 
-        System.out.println("Digite 10 números diferentes:");
+        System.out.println("Digite 10 números diferentes: ");
 
         while (i < 10) {
             System.out.print("Posição [" + i + "]: ");
